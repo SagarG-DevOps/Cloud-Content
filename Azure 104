@@ -1,0 +1,111 @@
+Microsoft Azure Administrator (AZ-104) Course Content
+
+Module 1: Identity (20%)
+
+Azure Active Directory
+
+Configure Microsoft Entra ID user and group accounts
+Create users and groups
+Configure SSSO
+Manage user and group properties
+Manage device settings and device identity
+Perform bulk updates
+Manage guest accounts
+
+RBAC
+
+Configure role-based access control
+Create custom roles
+Configure management groups
+Configure subscription and resource access
+Identify and resolve access issues
+
+Module 2: Storage (15%)
+
+Storage Solutions
+
+Configure storage accounts
+Configure network access
+Configure storage tiers
+Configure Azure Files and Azure Blob Storage
+Manage access keys
+Configure Azure Storage replication
+
+Data Protection
+
+Manage Azure Storage
+Generate shared access signatures
+Implement Azure Storage policies
+Configure Azure File Sync
+Configure Azure Backup and soft delete
+Configure storage monitoring
+
+Module 3: Compute (20%)
+
+Virtual Machines
+
+Deploy and manage Azure VMs
+Configure high availability
+Configure VM size and scale sets
+Implement Azure Dedicated Hosts
+Deploy and configure extensions
+Configure Azure Disk Encryption
+
+App Services
+
+Configure Azure App Service
+Deploy web apps
+Configure scaling settings
+Configure App Service plans
+Configure custom domains
+Configure networking options
+
+
+Module 4: Networking (25%)
+
+Virtual Networks
+
+Implement virtual networking
+Create and configure VNets
+Configure private and public IP addresses
+Configure user-defined network routes
+Implement subnet configuration
+Configure endpoints on subnets
+
+Network Security
+
+Secure access to virtual networks
+Configure Network Security Groups (NSGs)
+Configure Application Security Groups
+Configure Bastion Host
+Configure firewall rules
+
+
+Network Connectivity
+
+Configure load balancing
+Configure Azure Application Gateway
+Configure internal and external load balancers
+Configure Network Address Translation (NAT)
+Configure Azure Front Door
+
+
+Module 5: Monitoring (20%)
+
+Azure Monitor
+
+Configure monitoring services
+Configure Azure Monitor
+Configure Log Analytics workspaces
+Configure diagnostic settings
+Create alerts and action groups
+Configure Network Watcher
+
+Backup and Recovery
+
+Configure data backup and recovery
+Create Recovery Services vault
+Configure Azure Site Recovery
+Configure cross-region recovery
+Perform backup and restore operations
+Configure Archive policies
