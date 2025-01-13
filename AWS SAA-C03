@@ -1,0 +1,190 @@
+AWS Solutions Architect Associate (SAA-C03) Course Content
+
+Module 1: Compute and Architecture (20%)
+
+*Amazon EC2
+
+Launch and configure EC2 instances
+Instance types and families
+AMI selection and management
+User data and metadata
+Instance purchasing options (On-Demand, Reserved, Spot)
+Placement groups
+
+*Container Services
+
+introduction to container
+
+*Architecture Design
+
+Apply AWS Well-Architected Framework
+High availability patterns
+Loose coupling principles
+Service selection criteria
+Cost optimization strategies
+
+Module 2: Storage Solutions (15%)
+
+*S3 and Object Storage
+
+Configure S3 buckets
+Storage classes and lifecycle policies
+Bucket policies and ACLs
+Versioning and replication
+S3 encryption options
+Static website hosting
+
+*Block and File Storage
+
+Implement EBS and EFS
+Volume types and IOPS
+Snapshots and backups
+Mount targets and access points
+Performance optimization
+Data migration strategies
+
+Module 3: Database Services (15%)
+
+*Amazon RDS
+
+Deploy and manage RDS
+Engine selection
+Multi-AZ deployment
+Read replicas
+Backup and recovery
+Security and encryption
+
+*NoSQL Solutions
+
+Implement DynamoDB
+Table design and partitioning
+Consistency models
+DAX and caching
+Global tables
+Backup and restore
+
+Module 4: Networking (25%)
+
+*VPC Architecture
+
+Design VPC infrastructure
+CIDR planning
+Subnet configuration
+Route tables and NACLs
+VPC endpoints
+VPC peering
+
+*Connectivity
+
+Implement hybrid connectivity
+Site-to-Site VPN
+Direct Connect
+Transit Gateway
+VPC sharing
+Client VPN
+
+*Load Balancing
+
+Configure elastic load balancing
+ALB vs NLB vs CLB
+Target groups
+Health checks
+SSL/TLS termination
+Cross-zone load balancing
+
+Module 5: Security and Compliance (15%)
+
+*Identity and Access
+
+Implement IAM
+Users, groups, and roles
+Policy types and structure
+Permission boundaries
+Resource-based policies
+Cross-account access
+
+*Data Protection
+
+Configure security services
+KMS and CloudHSM
+AWS Certificate Manager
+AWS WAF
+Shield and GuardDuty
+Macie and Inspector
+
+Module 6: Monitoring and Recovery (10%)
+
+*CloudWatch
+
+Implement monitoring
+Metrics and dimensions
+Alarms and actions
+Logs and insights
+Events and EventBridge
+Application monitoring
+
+*Disaster Recovery
+
+Design DR strategies
+Backup and restore
+Pilot light
+Warm standby
+Multi-site active/active
+Recovery time objectives
+
+Practical Labs
+
+*Essential Hands-on Exercises
+
+1. VPC and Networking (6 hours)
+Build custom VPC
+Configure routing
+Implement security groups
+Set up load balancers
+2. EC2 and Storage (4 hours)
+Launch EC2 instances
+Configure EBS volumes
+Implement S3 buckets
+Set up auto scaling
+3. Database Implementation (4 hours)
+Deploy RDS instance
+Configure read replicas
+Implement DynamoDB tables
+Set up backups
+4. Security Controls (4 hours)
+Configure IAM policies
+Implement encryption
+Set up VPC security
+Configure WAF rules
+5. Monitoring Setup (4 hours)
+Configure CloudWatch
+Set up alerts
+Implement logging
+Create dashboards
+
+Exam Preparation
+
+*Domain Focus
+
+Compute and Architecture (20%)
+Storage Solutions (15%)
+Database Services (15%)
+Networking (25%)
+Security and Compliance (15%)
+Monitoring and Recovery (10%)
+
+*Key Success Factors
+
+Understanding of AWS Well-Architected Framework
+Service limits and quotas
+Cost optimization strategies
+Disaster recovery patterns
+Security best practices
+
+*Prerequisites
+
+Basic cloud computing concepts
+Fundamental networking knowledge
+Basic Linux/Windows administration
+Understanding of basic security concepts
+
